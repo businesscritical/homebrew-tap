@@ -2,8 +2,8 @@ require 'formula'
 
 class Dishy < Formula
   homepage 'https://github.com/businesscritical/dishy'
-  url 'https://github.com/businesscritical/dishy/archive/0.1.4.tar.gz'
-  sha256 '83ad3c933f33711af518e15c408a4611e235f7ed67292f31921aad4a4df7c3df'
+  url 'https://github.com/businesscritical/dishy/archive/0.1.5.tar.gz'
+  sha256 '6a0e5b37bf6b6351d7492471c9a322494f177cae1dafea717f85ddcaafa6a627'
   depends_on 'jq'
 
   def install
