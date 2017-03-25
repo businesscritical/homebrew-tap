@@ -1,8 +1,8 @@
 class Dishy < Formula
   desc "Displays fun GIFs on iTerm2"
   homepage "https://github.com/businesscritical/dishy"
-  url "https://github.com/businesscritical/dishy/archive/0.1.6.tar.gz"
-  sha256 "174bc5f5cbb941f1a76e593338e40bf9cb2c93aa14b19d325cc72e723f4f9ab1"
+  url "https://github.com/businesscritical/dishy/archive/0.1.7.tar.gz"
+  sha256 "2901bcc4ef69f6fee67a50b0985a5963f81bb5e242d503ac89e8bceea0271204"
 
   depends_on "jq"
 
